@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Balbino
 ## codewars
-Follow my path on [codewars.com](https://www.codewars.com/).
+Follow my path on [codewars.com](https://www.codewars.com/).  
 [![Profile badge](https://www.codewars.com/users/Cerberus2323/badges/large)](https://www.codewars.com/users/Cerberus2323)
 <!--
 **BalbinoEsen/BalbinoEsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
